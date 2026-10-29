@@ -1,0 +1,10 @@
+# Local build and execution artifacts
+**/build/
+**/__pycache__/
+*.py[cod]
+.venv/
+**/benchmark_runs/
+*.pdsdpbin
+*.mat
+*.jls
+.DS_Store

@@ -1,0 +1,26 @@
+{
+  "errors": [],
+  "finished_at_unix": 1789414379.7456245,
+  "physical_gpus": [
+    0,
+    1,
+    2,
+    7
+  ],
+  "pid": 3814107,
+  "scheduler": "decoupled_solver_validation_queues",
+  "status": "complete",
+  "summary": {
+    "active_by_gpu": {},
+    "complete_records": 75,
+    "formally_accepted": 24,
+    "independently_strict": 24,
+    "native_converged": 35,
+    "new_formal_solves_over_cardal": 0,
+    "remaining": 0,
+    "same_quality_end_to_end_faster": 16,
+    "same_quality_solver_time_faster": 19,
+    "total_instances": 75,
+    "updated_at_unix": 1789414379.741445
+  }
+}

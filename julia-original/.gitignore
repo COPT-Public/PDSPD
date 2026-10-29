@@ -1,0 +1,8 @@
+*.npz
+*.jls
+.vscode/*
+.VSCodeCounter/*
+*.csv
+*.png
+*.log
+*.mat

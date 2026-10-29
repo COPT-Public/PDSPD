@@ -1,0 +1,135 @@
+DECOUPLED_START gpus=[0, 1, 2, 7] pending_solves=32 queued_validations=0 external=['G60_mb', 'G60mc', 'rendl1_2000_1e-6']
+SOLVE_START gpu=1 instance=torusg3-15 budget=119.645
+SOLVE_START gpu=0 instance=e_moment_stable_17_0.5_2_2 budget=125.942
+SOLVE_START gpu=2 instance=cancer_100 budget=116.903
+SOLVE_START gpu=7 instance=H3O+_1-A1_STO-6GN10r16g1T2_5 budget=113.962
+SOLVE_DONE gpu=7 instance=H3O+_1-A1_STO-6GN10r16g1T2_5 status=CONVERGED solver_sec=52.995735286 gpu_released=True
+SOLVE_START gpu=7 instance=shmup4 budget=109.757
+SOLVE_DONE gpu=0 instance=e_moment_stable_17_0.5_2_2 status=CONVERGED solver_sec=69.596789501 gpu_released=True
+SOLVE_START gpu=0 instance=NH3_1-A1_STO-6GN10r16g1T2_5 budget=104.903
+SOLVE_DONE gpu=2 instance=cancer_100 status=OUT_OF_TIME solver_sec=116.905902693 gpu_released=True
+SOLVE_START gpu=2 instance=AlH_1-Sigma+_STO-6GN14r20g1T2_5 budget=86.679
+SOLVE_DONE gpu=1 instance=torusg3-15 status=OUT_OF_TIME solver_sec=119.723430753 gpu_released=True
+SOLVE_START gpu=1 instance=neu3 budget=74.941
+SOLVE_DONE gpu=1 instance=neu3 status=CONVERGED solver_sec=0.367583114 gpu_released=True
+SOLVE_START gpu=1 instance=CH2_1A1_STO-6GN8r14g1T2 budget=74.839
+SOLVE_DONE gpu=7 instance=shmup4 status=OUT_OF_TIME solver_sec=109.793995182 gpu_released=True
+SOLVE_START gpu=7 instance=foot budget=61.830
+SOLVE_DONE gpu=0 instance=NH3_1-A1_STO-6GN10r16g1T2_5 status=CONVERGED solver_sec=96.130307158 gpu_released=True
+SOLVE_START gpu=0 instance=biomedP budget=58.608
+SOLVE_DONE gpu=2 instance=AlH_1-Sigma+_STO-6GN14r20g1T2_5 status=CONVERGED solver_sec=78.545386316 gpu_released=True
+SOLVE_START gpu=2 instance=BH2_2A1_STO-6GN7r14g1T2 budget=53.744
+SOLVE_DONE gpu=1 instance=CH2_1A1_STO-6GN8r14g1T2 status=OUT_OF_TIME solver_sec=74.839257332 gpu_released=True
+SOLVE_START gpu=1 instance=theta12 budget=26.350
+SOLVE_DONE gpu=1 instance=theta12 status=CONVERGED solver_sec=2.396471097 gpu_released=True
+SOLVE_START gpu=1 instance=neu3g budget=22.449
+SOLVE_DONE gpu=1 instance=neu3g status=CONVERGED solver_sec=3.589626409 gpu_released=True
+SOLVE_START gpu=1 instance=spar060-020-1_LS budget=19.666
+EXTERNAL_DONE instance=rendl1_2000_1e-6 gpu=0 complete=True
+SOLVE_DONE gpu=1 instance=spar060-020-1_LS status=OUT_OF_TIME solver_sec=19.666157997 gpu_released=True
+SOLVE_START gpu=1 instance=G40_mb budget=19.059
+SOLVE_DONE gpu=7 instance=foot status=OUT_OF_TIME solver_sec=61.853127599 gpu_released=True
+SOLVE_START gpu=7 instance=yalsdp budget=17.625
+SOLVE_DONE gpu=7 instance=yalsdp status=CONVERGED solver_sec=9.144552993 gpu_released=True
+SOLVE_START gpu=7 instance=sensor_1000 budget=10.622
+SOLVE_DONE gpu=1 instance=G40_mb status=OUT_OF_TIME solver_sec=19.077158205 gpu_released=True
+SOLVE_START gpu=1 instance=hand budget=6.706
+SOLVE_DONE gpu=0 instance=biomedP status=OUT_OF_TIME solver_sec=58.987804649 gpu_released=True
+SOLVE_START gpu=0 instance=G48_mb budget=6.359
+SOLVE_DONE gpu=2 instance=BH2_2A1_STO-6GN7r14g1T2 status=OUT_OF_TIME solver_sec=53.747685211 gpu_released=True
+SOLVE_START gpu=2 instance=p_auss2_3.0 budget=6.306
+SOLVE_DONE gpu=7 instance=sensor_1000 status=OUT_OF_TIME solver_sec=10.629923062 gpu_released=True
+SOLVE_START gpu=7 instance=G59mc budget=5.497
+SOLVE_DONE gpu=1 instance=hand status=OUT_OF_TIME solver_sec=6.706233855 gpu_released=True
+SOLVE_START gpu=1 instance=ice_2.0 budget=5.193
+SOLVE_DONE gpu=7 instance=G59mc status=OUT_OF_TIME solver_sec=5.595096987 gpu_released=True
+SOLVE_START gpu=7 instance=cnhil10 budget=4.802
+SOLVE_DONE gpu=0 instance=G48_mb status=OUT_OF_TIME solver_sec=6.400537032 gpu_released=True
+SOLVE_START gpu=0 instance=prob_2_4_0 budget=4.571
+SOLVE_DONE gpu=7 instance=cnhil10 status=CONVERGED solver_sec=2.274381041 gpu_released=True
+SOLVE_START gpu=7 instance=checker_1.5 budget=4.292
+SOLVE_DONE gpu=2 instance=p_auss2_3.0 status=OUT_OF_TIME solver_sec=6.575043253 gpu_released=True
+SOLVE_START gpu=2 instance=hamming_8_3_4 budget=3.104
+SOLVE_DONE gpu=2 instance=hamming_8_3_4 status=CONVERGED solver_sec=0.298623084 gpu_released=True
+SOLVE_START gpu=2 instance=G55mc budget=2.909
+SOLVE_DONE gpu=1 instance=ice_2.0 status=OUT_OF_TIME solver_sec=5.611526055 gpu_released=True
+SOLVE_START gpu=1 instance=hamming_9_5_6 budget=2.110
+SOLVE_DONE gpu=7 instance=checker_1.5 status=OUT_OF_TIME solver_sec=4.421809523 gpu_released=True
+SOLVE_START gpu=7 instance=G48mc budget=2.036
+SOLVE_DONE gpu=1 instance=hamming_9_5_6 status=CONVERGED solver_sec=1.239159826 gpu_released=True
+SOLVE_START gpu=1 instance=cphil12 budget=0.912
+SOLVE_DONE gpu=1 instance=cphil12 status=CONVERGED solver_sec=0.352494079 gpu_released=True
+SOLVE_START gpu=1 instance=prob_2_4_1 budget=0.808
+SOLVE_DONE gpu=2 instance=G55mc status=OUT_OF_TIME solver_sec=3.090410147 gpu_released=True
+SOLVE_DONE gpu=7 instance=G48mc status=OUT_OF_TIME solver_sec=2.080203827 gpu_released=True
+SOLVE_DONE gpu=0 instance=prob_2_4_0 status=CONVERGED solver_sec=0.565475329 gpu_released=True
+SOLVE_DONE gpu=1 instance=prob_2_4_1 status=CONVERGED solver_sec=0.558797721 gpu_released=True
+EXTERNAL_REQUEUE_VALIDATION instance=G60mc gpu=2 dead_pid=3732337
+EXTERNAL_DONE instance=G60_mb gpu=7 complete=True
+VALIDATE_START worker=cpu1 instance=H3O+_1-A1_STO-6GN10r16g1T2_5
+VALIDATE_START worker=cpu0 instance=e_moment_stable_17_0.5_2_2
+VALIDATE_DONE worker=cpu0 instance=e_moment_stable_17_0.5_2_2 complete=True strict=False
+VALIDATE_START worker=cpu0 instance=cancer_100
+VALIDATE_DONE worker=cpu0 instance=cancer_100 complete=True strict=False
+VALIDATE_START worker=cpu0 instance=torusg3-15
+VALIDATE_DONE worker=cpu1 instance=H3O+_1-A1_STO-6GN10r16g1T2_5 complete=True strict=False
+VALIDATE_START worker=cpu1 instance=neu3
+VALIDATE_DONE worker=cpu1 instance=neu3 complete=True strict=True
+VALIDATE_START worker=cpu1 instance=shmup4
+VALIDATE_DONE worker=cpu0 instance=torusg3-15 complete=True strict=False
+VALIDATE_START worker=cpu0 instance=NH3_1-A1_STO-6GN10r16g1T2_5
+VALIDATE_DONE worker=cpu1 instance=shmup4 complete=True strict=False
+VALIDATE_START worker=cpu1 instance=AlH_1-Sigma+_STO-6GN14r20g1T2_5
+VALIDATE_DONE worker=cpu0 instance=NH3_1-A1_STO-6GN10r16g1T2_5 complete=True strict=False
+VALIDATE_START worker=cpu0 instance=CH2_1A1_STO-6GN8r14g1T2
+VALIDATE_DONE worker=cpu0 instance=CH2_1A1_STO-6GN8r14g1T2 complete=True strict=False
+VALIDATE_START worker=cpu0 instance=theta12
+VALIDATE_DONE worker=cpu0 instance=theta12 complete=True strict=True
+VALIDATE_START worker=cpu0 instance=neu3g
+VALIDATE_DONE worker=cpu0 instance=neu3g complete=True strict=True
+VALIDATE_START worker=cpu0 instance=spar060-020-1_LS
+VALIDATE_DONE worker=cpu0 instance=spar060-020-1_LS complete=True strict=False
+VALIDATE_START worker=cpu0 instance=foot
+VALIDATE_DONE worker=cpu1 instance=AlH_1-Sigma+_STO-6GN14r20g1T2_5 complete=True strict=False
+VALIDATE_START worker=cpu1 instance=yalsdp
+VALIDATE_DONE worker=cpu1 instance=yalsdp complete=True strict=False
+VALIDATE_START worker=cpu1 instance=G40_mb
+VALIDATE_DONE worker=cpu0 instance=foot complete=True strict=False
+VALIDATE_START worker=cpu0 instance=biomedP
+VALIDATE_DONE worker=cpu1 instance=G40_mb complete=True strict=False
+VALIDATE_START worker=cpu1 instance=BH2_2A1_STO-6GN7r14g1T2
+VALIDATE_DONE worker=cpu1 instance=BH2_2A1_STO-6GN7r14g1T2 complete=True strict=False
+VALIDATE_START worker=cpu1 instance=sensor_1000
+VALIDATE_DONE worker=cpu1 instance=sensor_1000 complete=True strict=False
+VALIDATE_START worker=cpu1 instance=hand
+VALIDATE_DONE worker=cpu1 instance=hand complete=True strict=False
+VALIDATE_START worker=cpu1 instance=G59mc
+VALIDATE_DONE worker=cpu1 instance=G59mc complete=True strict=False
+VALIDATE_START worker=cpu1 instance=G48_mb
+VALIDATE_DONE worker=cpu1 instance=G48_mb complete=True strict=False
+VALIDATE_START worker=cpu1 instance=cnhil10
+VALIDATE_DONE worker=cpu1 instance=cnhil10 complete=True strict=True
+VALIDATE_START worker=cpu1 instance=p_auss2_3.0
+VALIDATE_DONE worker=cpu0 instance=biomedP complete=True strict=False
+VALIDATE_START worker=cpu0 instance=hamming_8_3_4
+VALIDATE_DONE worker=cpu0 instance=hamming_8_3_4 complete=True strict=True
+VALIDATE_START worker=cpu0 instance=ice_2.0
+VALIDATE_DONE worker=cpu1 instance=p_auss2_3.0 complete=True strict=False
+VALIDATE_START worker=cpu1 instance=checker_1.5
+VALIDATE_DONE worker=cpu1 instance=checker_1.5 complete=True strict=False
+VALIDATE_START worker=cpu1 instance=hamming_9_5_6
+VALIDATE_DONE worker=cpu1 instance=hamming_9_5_6 complete=True strict=True
+VALIDATE_START worker=cpu1 instance=cphil12
+VALIDATE_DONE worker=cpu1 instance=cphil12 complete=True strict=True
+VALIDATE_START worker=cpu1 instance=G55mc
+VALIDATE_DONE worker=cpu0 instance=ice_2.0 complete=True strict=False
+VALIDATE_START worker=cpu0 instance=G48mc
+VALIDATE_DONE worker=cpu1 instance=G55mc complete=True strict=False
+VALIDATE_START worker=cpu1 instance=prob_2_4_0
+VALIDATE_DONE worker=cpu0 instance=G48mc complete=True strict=False
+VALIDATE_START worker=cpu0 instance=prob_2_4_1
+VALIDATE_DONE worker=cpu1 instance=prob_2_4_0 complete=True strict=True
+VALIDATE_START worker=cpu1 instance=G60mc
+VALIDATE_DONE worker=cpu0 instance=prob_2_4_1 complete=True strict=True
+VALIDATE_DONE worker=cpu1 instance=G60mc complete=True strict=False
+DECOUPLED_DONE status=complete remaining=0 errors=0

@@ -1,0 +1,82 @@
+START gpu=0 instance=neu2c budget=7254.252 cones=14 max_dim=252
+START gpu=1 instance=swissroll budget=7239.236 cones=1 max_dim=800
+START gpu=0 instance=neu2c budget=7254.252 cones=14 max_dim=252
+START gpu=1 instance=swissroll budget=7239.236 cones=1 max_dim=800
+DONE gpu=0 instance=neu2c complete=True status=OUT_OF_TIME strict=False solver_sec=7254.264181236 wall_sec=7256.599984369706
+START gpu=0 instance=mater-6 budget=7231.350 cones=4968 max_dim=11
+DONE gpu=1 instance=swissroll complete=True status=OUT_OF_TIME strict=False solver_sec=7239.238779922 wall_sec=7241.732945959084
+START gpu=1 instance=diamond_patch budget=7223.798 cones=1 max_dim=5477
+START gpu=0 instance=biggs budget=7200.952 cones=48 max_dim=91
+START gpu=1 instance=tiger_texture budget=4864.750 cones=1 max_dim=1801
+START gpu=7 instance=neosfbr30e8 budget=2960.674 cones=1 max_dim=842
+START gpu=2 instance=rose15 budget=3204.884 cones=1 max_dim=135
+DONE gpu=2 instance=rose15 complete=True status=CONVERGED strict=True solver_sec=115.297542258 wall_sec=118.42272701160982
+START gpu=2 instance=inc_1200 budget=2258.636 cones=1 max_dim=1200
+DONE gpu=7 instance=neosfbr30e8 complete=True status=CONVERGED strict=True solver_sec=1967.577391659 wall_sec=1972.2085945019498
+START gpu=7 instance=chs_5000 budget=2159.008 cones=4998 max_dim=10
+DONE gpu=7 instance=chs_5000 complete=True status=CONVERGED strict=True solver_sec=0.443926188 wall_sec=1.5765270818956196
+START gpu=7 instance=ros_2000 budget=1340.740 cones=1999 max_dim=6
+DONE gpu=7 instance=ros_2000 complete=True status=CONVERGED strict=True solver_sec=2.596422444 wall_sec=3.4987497781403363
+START gpu=7 instance=shmup5 budget=1076.431 cones=2 max_dim=3721
+DONE gpu=2 instance=inc_1200 complete=True status=OUT_OF_TIME strict=False solver_sec=2258.645183234 wall_sec=2260.137219390366
+START gpu=2 instance=reimer5 budget=1067.571 cones=1 max_dim=462
+DONE gpu=2 instance=reimer5 complete=True status=CONVERGED strict=True solver_sec=217.936074144 wall_sec=219.45337181305513
+START gpu=2 instance=neu2g budget=1051.515 cones=1 max_dim=252
+DONE gpu=7 instance=shmup5 complete=True status=OUT_OF_TIME strict=False solver_sec=1076.493992099 wall_sec=1079.416850849986
+START gpu=7 instance=1tc.2048 budget=994.857 cones=1 max_dim=2048
+DONE gpu=2 instance=neu2g complete=True status=OUT_OF_TIME strict=False solver_sec=1051.517418701 wall_sec=1052.4258007938042
+START gpu=2 instance=theta123 budget=988.895 cones=1 max_dim=600
+DONE gpu=2 instance=theta123 complete=True status=CONVERGED strict=True solver_sec=1.858726879 wall_sec=2.8016653889790177
+START gpu=2 instance=neosfbr25 budget=896.540 cones=1 max_dim=577
+DONE gpu=7 instance=1tc.2048 complete=True status=OUT_OF_TIME strict=False solver_sec=994.859680913 wall_sec=997.0980412750505
+START gpu=7 instance=buck5 budget=830.636 cones=2 max_dim=1761
+DONE gpu=2 instance=neosfbr25 complete=True status=OUT_OF_TIME strict=False solver_sec=896.544440775 wall_sec=898.1347376769409
+START gpu=2 instance=1dc.1024 budget=815.130 cones=1 max_dim=1024
+DONE gpu=1 instance=tiger_texture complete=True status=OUT_OF_TIME strict=False solver_sec=4864.764121061 wall_sec=4868.143303630874
+START gpu=1 instance=vibra5 budget=675.808 cones=2 max_dim=1761
+DONE gpu=7 instance=buck5 complete=True status=OUT_OF_TIME strict=False solver_sec=830.657646445 wall_sec=831.8609578153118
+START gpu=7 instance=1et.2048 budget=632.354 cones=1 max_dim=2048
+DONE gpu=2 instance=1dc.1024 complete=True status=CONVERGED strict=True solver_sec=669.934929195 wall_sec=671.1854444821365
+START gpu=2 instance=e_moment_quadknap_17_100_0.5_2_2 budget=585.667 cones=2 max_dim=171
+DONE gpu=1 instance=vibra5 complete=True status=OUT_OF_TIME strict=False solver_sec=675.824321304 wall_sec=677.1283107558265
+START gpu=1 instance=taha1b budget=574.232 cones=24 max_dim=286
+DONE gpu=2 instance=e_moment_quadknap_17_100_0.5_2_2 complete=True status=OUT_OF_TIME strict=False solver_sec=585.668285225 wall_sec=586.5730843720958
+START gpu=2 instance=1zc.1024 budget=559.412 cones=1 max_dim=1024
+DONE gpu=2 instance=1zc.1024 complete=True status=CONVERGED strict=True solver_sec=4.582276454 wall_sec=5.706394535955042
+START gpu=2 instance=taha1c budget=538.882 cones=14 max_dim=462
+DONE gpu=7 instance=1et.2048 complete=True status=OUT_OF_TIME strict=False solver_sec=632.356465272 wall_sec=634.7170323138125
+START gpu=7 instance=trto4 budget=515.632 cones=1 max_dim=673
+DONE gpu=2 instance=taha1c complete=True status=CONVERGED strict=False solver_sec=107.296928606 wall_sec=108.83475495968014
+START gpu=2 instance=neu2 budget=504.259 cones=1 max_dim=252
+DONE gpu=1 instance=taha1b complete=True status=CONVERGED strict=False solver_sec=315.685919723 wall_sec=316.6793685820885
+START gpu=1 instance=rabmo budget=427.661 cones=1 max_dim=220
+DONE gpu=1 instance=rabmo complete=True status=CONVERGED strict=True solver_sec=61.144262775 wall_sec=61.9922766298987
+START gpu=1 instance=fap09 budget=415.859 cones=1 max_dim=174
+DONE gpu=1 instance=fap09 complete=True status=CONVERGED strict=True solver_sec=7.983113355 wall_sec=8.927957642357796
+START gpu=1 instance=broyden25 budget=373.017 cones=19 max_dim=120
+DONE gpu=2 instance=neu2 complete=True status=CONVERGED strict=True solver_sec=303.21972476 wall_sec=304.19738911045715
+START gpu=2 instance=G60mc budget=349.356 cones=1 max_dim=7000
+DONE gpu=7 instance=trto4 complete=True status=OUT_OF_TIME strict=False solver_sec=515.632516005 wall_sec=516.4463437246159
+START gpu=7 instance=G60_mb budget=344.145 cones=1 max_dim=7000
+DONE gpu=1 instance=broyden25 complete=True status=OUT_OF_TIME strict=False solver_sec=373.018921905 wall_sec=373.9942009970546
+START gpu=1 instance=theta102 budget=301.931 cones=1 max_dim=500
+DONE gpu=1 instance=theta102 complete=True status=CONVERGED strict=True solver_sec=1.660476107 wall_sec=2.564641383010894
+START gpu=1 instance=vibra4 budget=278.114 cones=2 max_dim=673
+DONE gpu=1 instance=vibra4 complete=True status=OUT_OF_TIME strict=False solver_sec=278.116405762 wall_sec=279.41252082027495
+START gpu=1 instance=neu1g budget=268.147 cones=1 max_dim=252
+DONE gpu=1 instance=neu1g complete=True status=CONVERGED strict=True solver_sec=68.816012797 wall_sec=69.71244772989303
+START gpu=1 instance=Bst_jcbpaf2 budget=228.577 cones=34 max_dim=66
+DONE gpu=1 instance=Bst_jcbpaf2 complete=True status=CONVERGED strict=False solver_sec=2.200862019 wall_sec=3.5983463949523866
+START gpu=1 instance=trto5 budget=185.231 cones=1 max_dim=1761
+DONE gpu=0 instance=biggs complete=True status=OUT_OF_TIME strict=False solver_sec=7200.952575876 wall_sec=7204.1857709209435
+START gpu=0 instance=taha1a budget=183.093 cones=14 max_dim=252
+DONE gpu=1 instance=trto5 complete=True status=OUT_OF_TIME strict=False solver_sec=185.239394946 wall_sec=186.2823620820418
+START gpu=1 instance=NH2-.1A1.STO6G.r14 budget=175.105 cones=21 max_dim=490
+DONE gpu=1 instance=NH2-.1A1.STO6G.r14 complete=True status=CONVERGED strict=False solver_sec=15.166184303 wall_sec=16.215296702925116
+START gpu=1 instance=Bex2_1_5 budget=157.325 cones=32 max_dim=66
+DONE gpu=1 instance=Bex2_1_5 complete=True status=CONVERGED strict=True solver_sec=1.792833091 wall_sec=3.0300865373574197
+START gpu=1 instance=neu1 budget=154.223 cones=1 max_dim=252
+DONE gpu=0 instance=taha1a complete=True status=CONVERGED strict=False solver_sec=72.511789646 wall_sec=74.23085064906627
+START gpu=0 instance=rendl1_2000_1e-6 budget=153.107 cones=1 max_dim=2000
+DONE gpu=1 instance=neu1 complete=True status=CONVERGED strict=True solver_sec=59.113749422 wall_sec=60.109507381916046
+START gpu=1 instance=NH4+.1A1.STO6GN.r18 budget=126.498 cones=21 max_dim=1053

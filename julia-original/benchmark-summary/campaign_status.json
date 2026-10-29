@@ -1,0 +1,20 @@
+{
+  "exit_code": 0,
+  "finished_at_unix": 1789379879.8642218,
+  "gpu_physical_index": 6,
+  "pid": 2085022,
+  "status": "complete",
+  "summary": {
+    "complete_records": 75,
+    "current_instance": null,
+    "new_formal_solves_over_cardal": 0,
+    "pdsdp_formally_accepted": 9,
+    "pdsdp_independently_strict": 11,
+    "pdsdp_native_converged": 15,
+    "remaining": 0,
+    "same_quality_end_to_end_faster": 7,
+    "same_quality_solver_time_faster": 8,
+    "total_instances": 75,
+    "updated_at_unix": 1789379879.8608484
+  }
+}

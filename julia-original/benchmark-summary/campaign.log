@@ -1,0 +1,136 @@
+START instance=ros_2000 budget=1340.740200s cones=1999 max_dim=6
+DONE instance=ros_2000 status=CONVERGED strict=True time=14.093047857284546 wall=57.133
+START instance=chs_5000 budget=2159.008000s cones=4998 max_dim=10
+DONE instance=chs_5000 status=CONVERGED strict=True time=6.967874050140381 wall=51.428
+START instance=mater-6 budget=7231.350000s cones=4968 max_dim=11
+DONE instance=mater-6 status=OUT_OF_TIME strict=False time=7231.357969999313 wall=7276.268
+START instance=spar060-020-1_LS budget=19.666004s cones=1 max_dim=61
+DONE instance=spar060-020-1_LS status=OUT_OF_TIME strict=False time=19.667829990386963 wall=62.838
+START instance=Bst_jcbpaf2 budget=228.576600s cones=34 max_dim=66
+DONE instance=Bst_jcbpaf2 status=CONVERGED strict=False time=14.242969036102295 wall=58.132
+START instance=Bex2_1_5 budget=157.325040s cones=32 max_dim=66
+DONE instance=Bex2_1_5 status=CONVERGED strict=True time=12.415698051452637 wall=57.283
+START instance=biggs budget=7200.952000s cones=48 max_dim=91
+DONE instance=biggs status=OUT_OF_TIME strict=False time=7200.959891796112 wall=7243.822
+START instance=yalsdp budget=17.625484s cones=3 max_dim=100
+DONE instance=yalsdp status=OUT_OF_TIME strict=False time=17.634352207183838 wall=61.785
+START instance=broyden25 budget=373.016600s cones=19 max_dim=120
+DONE instance=broyden25 status=OUT_OF_TIME strict=False time=373.0303678512573 wall=416.236
+START instance=rose15 budget=3204.884000s cones=1 max_dim=135
+DONE instance=rose15 status=CONVERGED strict=True time=193.59273290634155 wall=236.895
+START instance=e_moment_stable_17_0.5_2_2 budget=125.942440s cones=18 max_dim=171
+DONE instance=e_moment_stable_17_0.5_2_2 status=OUT_OF_TIME strict=False time=125.94402694702148 wall=170.314
+START instance=e_moment_quadknap_17_100_0.5_2_2 budget=585.666600s cones=2 max_dim=171
+DONE instance=e_moment_quadknap_17_100_0.5_2_2 status=OUT_OF_TIME strict=False time=585.6686000823975 wall=630.404
+START instance=fap09 budget=415.858800s cones=1 max_dim=174
+DONE instance=fap09 status=CONVERGED strict=True time=18.297974824905396 wall=62.036
+START instance=cnhil10 budget=4.802288s cones=1 max_dim=220
+DONE instance=cnhil10 status=OUT_OF_TIME strict=False time=4.805064916610718 wall=47.722
+START instance=rabmo budget=427.661000s cones=1 max_dim=220
+DONE instance=rabmo status=CONVERGED strict=False time=95.5076220035553 wall=138.438
+START instance=neu2c budget=7254.252000s cones=14 max_dim=252
+DONE instance=neu2c status=OUT_OF_TIME strict=False time=7254.256942987442 wall=7298.715
+START instance=taha1a budget=183.093440s cones=14 max_dim=252
+DONE instance=taha1a status=CONVERGED strict=False time=94.05223894119263 wall=139.426
+START instance=neu1 budget=154.222520s cones=1 max_dim=252
+DONE instance=neu1 status=CONVERGED strict=True time=143.65226101875305 wall=187.181
+START instance=neu1g budget=268.147000s cones=1 max_dim=252
+DONE instance=neu1g status=CONVERGED strict=False time=177.66982793807983 wall=221.373
+START instance=neu2 budget=504.259000s cones=1 max_dim=252
+DONE instance=neu2 status=OUT_OF_TIME strict=True time=504.2592840194702 wall=547.101
+START instance=neu2g budget=1051.515400s cones=1 max_dim=252
+DONE instance=neu2g status=OUT_OF_TIME strict=False time=1051.5173380374908 wall=1094.541
+START instance=hamming_8_3_4 budget=3.103698s cones=1 max_dim=256
+DONE instance=hamming_8_3_4 status=OUT_OF_TIME strict=False time=4.046512842178345 wall=47.269
+START instance=taha1b budget=574.232000s cones=24 max_dim=286
+DONE instance=taha1b status=OUT_OF_TIME strict=False time=574.2392559051514 wall=618.883
+START instance=cphil12 budget=0.911857s cones=1 max_dim=364
+DONE instance=cphil12 status=OUT_OF_TIME strict=False time=4.064819097518921 wall=47.619
+START instance=prob_2_4_0 budget=4.571368s cones=1 max_dim=400
+DONE instance=prob_2_4_0 status=OUT_OF_TIME strict=False time=4.774853944778442 wall=72.498
+START instance=prob_2_4_1 budget=0.807798s cones=1 max_dim=400
+DONE instance=prob_2_4_1 status=OUT_OF_TIME strict=False time=4.150863885879517 wall=72.048
+START instance=neu3 budget=74.941460s cones=1 max_dim=418
+DONE instance=neu3 status=CONVERGED strict=True time=5.81270694732666 wall=50.071
+START instance=taha1c budget=538.881600s cones=14 max_dim=462
+DONE instance=taha1c status=OUT_OF_TIME strict=False time=538.9007370471954 wall=584.248
+START instance=neu3g budget=22.449280s cones=1 max_dim=462
+DONE instance=neu3g status=CONVERGED strict=False time=10.330416202545166 wall=56.534
+START instance=reimer5 budget=1067.571400s cones=1 max_dim=462
+DONE instance=reimer5 status=NUMERICAL_ERROR strict=False time=1067.591215133667 wall=1110.744
+START instance=BH2_2A1_STO-6GN7r14g1T2 budget=53.743980s cones=22 max_dim=490
+DONE instance=BH2_2A1_STO-6GN7r14g1T2 status=OUT_OF_TIME strict=False time=53.77875518798828 wall=98.786
+START instance=CH2_1A1_STO-6GN8r14g1T2 budget=74.838740s cones=22 max_dim=490
+DONE instance=CH2_1A1_STO-6GN8r14g1T2 status=OUT_OF_TIME strict=False time=74.83998608589172 wall=119.856
+START instance=NH2-.1A1.STO6G.r14 budget=175.104640s cones=21 max_dim=490
+DONE instance=NH2-.1A1.STO6G.r14 status=OUT_OF_TIME strict=False time=175.13182711601257 wall=219.975
+START instance=theta102 budget=301.930600s cones=1 max_dim=500
+DONE instance=theta102 status=CONVERGED strict=True time=7.375922918319702 wall=51.328
+START instance=hamming_9_5_6 budget=2.110276s cones=1 max_dim=512
+DONE instance=hamming_9_5_6 status=OUT_OF_TIME strict=False time=3.833876132965088 wall=47.322
+START instance=cancer_100 budget=116.902700s cones=1 max_dim=569
+DONE instance=cancer_100 status=OUT_OF_TIME strict=False time=116.90813493728638 wall=159.953
+START instance=neosfbr25 budget=896.539600s cones=1 max_dim=577
+DONE instance=neosfbr25 status=None strict=False time=None wall=9.425
+START instance=theta12 budget=26.350200s cones=1 max_dim=600
+DONE instance=theta12 status=OUT_OF_TIME strict=False time=26.350659132003784 wall=70.097
+START instance=theta123 budget=988.895400s cones=1 max_dim=600
+DONE instance=theta123 status=OUT_OF_TIME strict=False time=988.9019119739532 wall=1032.575
+START instance=vibra4 budget=278.113800s cones=2 max_dim=673
+DONE instance=vibra4 status=NUMERICAL_ERROR strict=False time=278.24259305000305 wall=317.684
+START instance=trto4 budget=515.632000s cones=1 max_dim=673
+DONE instance=trto4 status=NUMERICAL_ERROR strict=False time=515.7063658237457 wall=553.862
+START instance=H3O+_1-A1_STO-6GN10r16g1T2_5 budget=113.962000s cones=22 max_dim=736
+DONE instance=H3O+_1-A1_STO-6GN10r16g1T2_5 status=OUT_OF_TIME strict=False time=113.96823406219482 wall=159.651
+START instance=NH3_1-A1_STO-6GN10r16g1T2_5 budget=104.902680s cones=22 max_dim=736
+DONE instance=NH3_1-A1_STO-6GN10r16g1T2_5 status=OUT_OF_TIME strict=False time=104.93611001968384 wall=150.694
+START instance=swissroll budget=7239.236000s cones=1 max_dim=800
+DONE instance=swissroll status=NUMERICAL_ERROR strict=False time=7239.297251939774 wall=7278.275
+START instance=neosfbr30e8 budget=2960.674000s cones=1 max_dim=842
+DONE instance=neosfbr30e8 status=None strict=False time=None wall=10.126
+START instance=sensor_1000 budget=10.622440s cones=1 max_dim=982
+DONE instance=sensor_1000 status=OUT_OF_TIME strict=False time=10.633862018585205 wall=54.680
+START instance=1dc.1024 budget=815.129800s cones=1 max_dim=1024
+DONE instance=1dc.1024 status=OUT_OF_TIME strict=True time=815.1303641796112 wall=860.000
+START instance=1zc.1024 budget=559.411800s cones=1 max_dim=1024
+DONE instance=1zc.1024 status=CONVERGED strict=True time=11.567986965179443 wall=56.279
+START instance=NH4+.1A1.STO6GN.r18 budget=126.498160s cones=21 max_dim=1053
+DONE instance=NH4+.1A1.STO6GN.r18 status=CONVERGED strict=False time=76.72672891616821 wall=123.502
+START instance=inc_1200 budget=2258.636000s cones=1 max_dim=1200
+DONE instance=inc_1200 status=NUMERICAL_ERROR strict=False time=2258.7887098789215 wall=2299.611
+START instance=hand budget=6.705796s cones=1 max_dim=1296
+DONE instance=hand status=OUT_OF_TIME strict=False time=6.717905044555664 wall=52.775
+START instance=AlH_1-Sigma+_STO-6GN14r20g1T2_5 budget=86.678840s cones=22 max_dim=1450
+DONE instance=AlH_1-Sigma+_STO-6GN14r20g1T2_5 status=OUT_OF_TIME strict=False time=86.6828248500824 wall=137.366
+START instance=shmup4 budget=109.756640s cones=2 max_dim=1681
+DONE instance=shmup4 status=OUT_OF_TIME strict=False time=109.76793503761292 wall=157.592
+START instance=buck5 budget=830.636000s cones=2 max_dim=1761
+DONE instance=buck5 status=NUMERICAL_ERROR strict=False time=830.6537818908691 wall=874.500
+START instance=vibra5 budget=675.808000s cones=2 max_dim=1761
+DONE instance=vibra5 status=OUT_OF_TIME strict=False time=675.8195779323578 wall=725.835
+START instance=trto5 budget=185.230780s cones=1 max_dim=1761
+DONE instance=trto5 status=OUT_OF_TIME strict=False time=185.25092697143555 wall=231.735
+START instance=tiger_texture budget=4864.750000s cones=1 max_dim=1801
+DONE instance=tiger_texture status=OUT_OF_TIME strict=False time=4864.76683306694 wall=4910.642
+START instance=G40_mb budget=19.058858s cones=1 max_dim=2000
+DONE instance=G40_mb status=OUT_OF_TIME strict=False time=19.0705828666687 wall=66.688
+START instance=rendl1_2000_1e-6 budget=153.106500s cones=1 max_dim=2000
+DONE instance=rendl1_2000_1e-6 status=OUT_OF_TIME strict=False time=153.1296148300171 wall=201.835
+START instance=1et.2048 budget=632.354200s cones=1 max_dim=2048
+DONE instance=1et.2048 status=OUT_OF_TIME strict=False time=632.3550770282745 wall=678.701
+START instance=1tc.2048 budget=994.856600s cones=1 max_dim=2048
+DONE instance=1tc.2048 status=OUT_OF_TIME strict=False time=994.8785569667816 wall=8347.261
+SKIP complete instance=foot
+SKIP complete instance=G48_mb
+SKIP complete instance=G48mc
+SKIP complete instance=torusg3-15
+SKIP complete instance=shmup5
+SKIP complete instance=checker_1.5
+SKIP complete instance=G55mc
+SKIP complete instance=G59mc
+SKIP complete instance=diamond_patch
+SKIP complete instance=biomedP
+SKIP complete instance=G60_mb
+SKIP complete instance=G60mc
+SKIP complete instance=ice_2.0
+SKIP complete instance=p_auss2_3.0
